@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS prova;
+CREATE DATABASE ansia_db;
+
