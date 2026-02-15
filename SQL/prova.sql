@@ -1,4 +1,0 @@
-DROP DATABASE IF EXISTS prova;
-CREATE DATABASE ansia_db;
-DROP DATABASE IF EXIST create database;
-
